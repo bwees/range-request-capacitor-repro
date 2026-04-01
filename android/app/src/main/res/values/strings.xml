@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Maroon Rides</string>
-    <string name="title_activity_main">Maroon Rides</string>
-    <string name="package_name">com.bwees.reveillerides</string>
-    <string name="custom_url_scheme">com.bwees.reveillerides</string>
+    <string name="app_name">Range Request Repro</string>
+    <string name="title_activity_main">Range Request Repro</string>
+    <string name="package_name">com.bwees.capacitorrepro</string>
+    <string name="custom_url_scheme">com.bwees.capacitorrepro</string>
 </resources>

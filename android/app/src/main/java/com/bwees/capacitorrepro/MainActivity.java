@@ -1,4 +1,4 @@
-package com.bwees.reveillerides;
+package com.bwees.capacitorrepro;
 
 import com.getcapacitor.BridgeActivity;
 
